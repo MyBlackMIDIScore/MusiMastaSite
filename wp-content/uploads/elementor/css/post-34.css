@@ -1,7 +1,7 @@
 .elementor-kit-34 {--e-global-color-primary: #6ec1e4;--e-global-color-secondary: #54595f;--e-global-color-text: #7a7a7a;--e-global-color-accent: #61ce70;--e-global-color-5c0ccb31: #4054b2;--e-global-color-704d3e84: #23a455;--e-global-color-6eb28087: #000;--e-global-color-5b48e793: #fff;--e-global-typography-primary-font-family: "Roboto";--e-global-typography-primary-font-weight: 600;--e-global-typography-secondary-font-family: "Roboto Slab";--e-global-typography-secondary-font-weight: 400;--e-global-typography-text-font-family: "Roboto";--e-global-typography-text-font-weight: 400;--e-global-typography-accent-font-family: "Roboto";--e-global-typography-accent-font-weight: 500;}
-.elementor-section.elementor-section-boxed > .elementor-container {max-width: 1130px;}
-.elementor-widget:not(:last-child) {margin-bottom: 16px;}
+.elementor-section.elementor-section-boxed > .elementor-container {max-width: 1150px;}
+.elementor-widget:not(:last-child) {margin-bottom: 20px;}
  {}
 h1.entry-title {display: var(--page-title-display);}
-@media (max-width:1024px) {.elementor-section.elementor-section-boxed > .elementor-container {max-width: 1025px;}}
-@media (max-width:767px) {.elementor-section.elementor-section-boxed > .elementor-container {max-width: 768px;}}
+@media (max-width:768px) {.elementor-section.elementor-section-boxed > .elementor-container {max-width: 1025px;}}
+@media (max-width:481px) {.elementor-section.elementor-section-boxed > .elementor-container {max-width: 768px;}}

@@ -1,14 +1,17 @@
 .elementor-81 .elementor-element.elementor-element-aa6fc5a .elementor-spacer-inner {height: 51px;}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle .elementor-tab-title {border-width: 0px;}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle .elementor-tab-content {border-width: 0px;color: #e3e3e3;font-family: "Roboto",Sans-serif;font-weight: 400;}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle .elementor-toggle-item:not(:last-child) {margin-bottom: 5px;}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle .elementor-toggle-item {box-shadow: 0px 0px 10px 0px rgba(255,255,255,.5);}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle-title, .elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle-icon {color: #fff;}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-tab-title.elementor-active a, .elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-tab-title.elementor-active .elementor-toggle-icon {color: #ff8c00;}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle .elementor-toggle-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle .elementor-tab-title .elementor-toggle-icon i:before {color: #fff;}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle .elementor-tab-title .elementor-toggle-icon svg {fill: #fff;}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon i:before {color: #ff8c00;}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon svg {fill: #ff8c00;}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle .elementor-toggle-icon.elementor-toggle-icon-left {margin-right: 7px;}
-.elementor-81 .elementor-element.elementor-element-5b34e68 .elementor-toggle .elementor-toggle-icon.elementor-toggle-icon-right {margin-left: 7px;}
+.elementor-81 .elementor-element.elementor-element-9bdb311 {text-align: center;}
+.elementor-81 .elementor-element.elementor-element-9bdb311 .elementor-heading-title {color: #fff;text-shadow: 0px 0px 10px rgba(255,255,255,.3);}
+.elementor-81 .elementor-element.elementor-element-271f25c .elementor-text-editor {text-align: justify;}
+.elementor-81 .elementor-element.elementor-element-271f25c {color: #fff;font-family: "Abel",Sans-serif;font-size: 18px;}
+.elementor-81 .elementor-element.elementor-element-c79bdb4 {--divider-border-style: solid;--divider-color: #fff;--divider-border-width: 1px;}
+.elementor-81 .elementor-element.elementor-element-c79bdb4 .elementor-divider-separator {width: 92%;margin: 0 auto;margin-center: 0;}
+.elementor-81 .elementor-element.elementor-element-c79bdb4 .elementor-divider {text-align: center;padding-top: 15px;padding-bottom: 15px;}
+.elementor-81 .elementor-element.elementor-element-1d8596c9 {border-style: solid;border-width: 1px 1px 1px 1px;border-color: #fff;box-shadow: 0px 0px 10px 0px rgba(255,255,255,.36);transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-81 .elementor-element.elementor-element-1d8596c9, .elementor-81 .elementor-element.elementor-element-1d8596c9 > .elementor-background-overlay {border-radius: 0px 0px 0px 0px;}
+.elementor-81 .elementor-element.elementor-element-1d8596c9 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-81 .elementor-element.elementor-element-13179d9d {text-align: left;}
+.elementor-81 .elementor-element.elementor-element-13179d9d .elementor-heading-title {color: #fff;font-family: "Abel",Sans-serif;font-size: 20px;text-shadow: 0px 0px 10px rgba(255,255,255,.3);}
+.elementor-81 .elementor-element.elementor-element-13179d9d > .elementor-widget-container {margin: 12px 0px 0px 0px;}
+.elementor-81 .elementor-element.elementor-element-5c727d1 .elementor-button {font-size: 20px;text-shadow: 0px 0px 10px rgba(0,0,0,.3);fill: #fff;color: #fff;background-color: #d77b00;}
+@media (min-width:482px) {.elementor-81 .elementor-element.elementor-element-4672288c {width: 85.461%;}
+	.elementor-81 .elementor-element.elementor-element-44dfcdcd {width: 14.539%;}}
