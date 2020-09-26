@@ -11,19 +11,20 @@
 .elementor-146 .elementor-element.elementor-element-5bc2710 {text-align: left;}
 .elementor-146 .elementor-element.elementor-element-5bc2710 .elementor-heading-title {color: #fff;font-family: "Abel",Sans-serif;font-size: 20px;text-shadow: 0px 0px 10px rgba(255,255,255,.3);}
 .elementor-146 .elementor-element.elementor-element-5bc2710 > .elementor-widget-container {margin: 15px 0px 0px 0px;}
-.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {padding-bottom: calc(21px / 2);}
-.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {margin-top: calc(21px / 2);}
-.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {margin-right: calc(21px / 2);margin-left: calc(21px / 2);}
-.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-items.elementor-inline-items {margin-right: calc(-21px / 2);margin-left: calc(-21px / 2);}
-body.rtl .elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {left: calc(-21px / 2);}
-body:not(.rtl) .elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {right: calc(-21px / 2);}
-.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-icon i {color: #fff;font-size: 30px;}
-.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-icon svg {fill: #fff;width: 30px;}
+.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {padding-bottom: calc(14px / 2);}
+.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {margin-top: calc(14px / 2);}
+.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {margin-right: calc(14px / 2);margin-left: calc(14px / 2);}
+.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-items.elementor-inline-items {margin-right: calc(-14px / 2);margin-left: calc(-14px / 2);}
+body.rtl .elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {left: calc(-14px / 2);}
+body:not(.rtl) .elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {right: calc(-14px / 2);}
+.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-icon i {color: #fff;font-size: 26px;}
+.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-icon svg {fill: #fff;width: 26px;}
 .elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-item:hover .elementor-icon-list-icon i {color: #ffde79;}
 .elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-item:hover .elementor-icon-list-icon svg {fill: #ffde79;}
 .elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-icon {text-align: center;}
 .elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-text {color: #fff;padding-left: 0px;}
 .elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-item:hover .elementor-icon-list-text {color: #ffa52b;}
+.elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-item, .elementor-146 .elementor-element.elementor-element-3feb622 .elementor-icon-list-item a {font-size: 16px;}
 .elementor-146 .elementor-element.elementor-element-3feb622 > .elementor-widget-container {margin: -176px 2px -180px 2px;}
-@media (min-width:482px) {.elementor-146 .elementor-element.elementor-element-4dfe266 {width: 28.546%;}
-	.elementor-146 .elementor-element.elementor-element-a1cb5c6 {width: 71.454%;}}
+@media (min-width:482px) {.elementor-146 .elementor-element.elementor-element-4dfe266 {width: 21.897%;}
+	.elementor-146 .elementor-element.elementor-element-a1cb5c6 {width: 78.103%;}}
