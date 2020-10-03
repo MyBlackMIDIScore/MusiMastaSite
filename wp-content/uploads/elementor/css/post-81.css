@@ -3,6 +3,10 @@
 .elementor-81 .elementor-element.elementor-element-9bdb311 .elementor-heading-title {color: #fff;text-shadow: 0px 0px 10px rgba(255,255,255,.3);}
 .elementor-81 .elementor-element.elementor-element-271f25c .elementor-text-editor {text-align: justify;}
 .elementor-81 .elementor-element.elementor-element-271f25c {color: #fff;font-family: "Abel",Sans-serif;font-size: 18px;}
+.elementor-81 .elementor-element.elementor-element-271f25c > .elementor-widget-container {margin: 0px 0px -19px 0px;}
+.elementor-81 .elementor-element.elementor-element-71526e4 .elementor-text-editor {text-align: center;}
+.elementor-81 .elementor-element.elementor-element-71526e4 {color: #fff;font-family: "Abel",Sans-serif;font-size: 18px;}
+.elementor-81 .elementor-element.elementor-element-71526e4 > .elementor-widget-container {margin: -21px 0px -13px 0px;}
 .elementor-81 .elementor-element.elementor-element-c79bdb4 {--divider-border-style: solid;--divider-color: #fff;--divider-border-width: 1px;}
 .elementor-81 .elementor-element.elementor-element-c79bdb4 .elementor-divider-separator {width: 92%;margin: 0 auto;margin-center: 0;}
 .elementor-81 .elementor-element.elementor-element-c79bdb4 .elementor-divider {text-align: center;padding-top: 15px;padding-bottom: 15px;}
@@ -12,6 +16,8 @@
 .elementor-81 .elementor-element.elementor-element-13179d9d {text-align: left;}
 .elementor-81 .elementor-element.elementor-element-13179d9d .elementor-heading-title {color: #fff;font-family: "Abel",Sans-serif;font-size: 20px;text-shadow: 0px 0px 10px rgba(255,255,255,.3);}
 .elementor-81 .elementor-element.elementor-element-13179d9d > .elementor-widget-container {margin: 12px 0px 0px 0px;}
-.elementor-81 .elementor-element.elementor-element-5c727d1 .elementor-button {font-size: 20px;text-shadow: 0px 0px 10px rgba(0,0,0,.3);fill: #fff;color: #fff;background-color: #d77b00;}
+.elementor-81 .elementor-element.elementor-element-5c727d1 .elementor-button {font-size: 20px;text-shadow: 0px 0px 10px rgba(0,0,0,.3);fill: #fff;color: #fff;background-color: #c26f00;border-radius: 0px 0px 0px 0px;}
+.elementor-81 .elementor-element.elementor-element-5c727d1 .elementor-button:hover, .elementor-81 .elementor-element.elementor-element-5c727d1 .elementor-button:focus {color: #fff;background-color: #ff9200;}
+.elementor-81 .elementor-element.elementor-element-5c727d1 .elementor-button:hover svg, .elementor-81 .elementor-element.elementor-element-5c727d1 .elementor-button:focus svg {fill: #fff;}
 @media (min-width:482px) {.elementor-81 .elementor-element.elementor-element-4672288c {width: 85.461%;}
 	.elementor-81 .elementor-element.elementor-element-44dfcdcd {width: 14.539%;}}
